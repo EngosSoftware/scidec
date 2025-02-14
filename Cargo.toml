@@ -1,6 +1,6 @@
 [package]
 name = "scidec"
-version = "0.1.8"
+version = "0.1.9"
 authors = ["Dariusz Depta <depta@engos.de>"]
 description = "Scientific number converter"
 documentation = "https://docs.rs/scidec/"
