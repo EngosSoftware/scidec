@@ -1,4 +1,4 @@
-//! # Recognizer for 128-bit floating-point decimals.
+//! # Recognizer for 128-bit floating-point decimals
 
 use crate::recognizer::{recognize, Value, FLAG_INEXACT, FLAG_OVERFLOW, FLAG_UNDERFLOW};
 use crate::Rounding;

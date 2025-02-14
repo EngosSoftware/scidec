@@ -1,10 +1,10 @@
 [package]
 name = "scidec"
-version = "0.1.7"
-authors = ["Dariusz Depta <wisbery@users.noreply.github.com>"]
+version = "0.1.8"
+authors = ["Dariusz Depta <depta@engos.de>"]
 description = "Scientific number converter"
 documentation = "https://docs.rs/scidec/"
-repository = "https://github.com/wisbery/scidec.git"
+repository = "https://github.com/EngosSoftware/scidec.git"
 keywords = ["scientific", "number", "decimal", "converter"]
 categories = ["encoding"]
 license = "MIT OR Apache-2.0"
