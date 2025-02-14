@@ -1,4 +1,4 @@
-//! Implementation of the recognizer for scientific `E` notation.
+//! Implementation of the recognizer for scientific notation.
 
 type Flags = u32;
 
